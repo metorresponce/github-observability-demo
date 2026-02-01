@@ -1,13 +1,13 @@
 > Available languages / Idiomas disponibles: [*English*](README.md) / [*Español*](README.ES.md)
 
-Back to repository: [Home](https://github.com/mariano-tp/mariano-tp/blob/main/README.md)
+Back to repository: [Home](https://github.com/metorresponce/metorresponce/blob/main/README.md)
 
-[![CI: compose-validate](https://img.shields.io/github/actions/workflow/status/mariano-tp/github-observability-demo/compose-validate.yml?branch=main&label=compose-validate&style=flat-square)](https://github.com/mariano-tp/github-observability-demo/actions/workflows/compose-validate.yml)
-[![CI: link-check](https://img.shields.io/github/actions/workflow/status/mariano-tp/github-observability-demo/link-check.yml?branch=main&label=link-check&style=flat-square)](https://github.com/mariano-tp/github-observability-demo/actions/workflows/link-check.yml)
-[![last commit](https://img.shields.io/github/last-commit/mariano-tp/github-observability-demo?style=flat-square)](https://github.com/mariano-tp/github-observability-demo/commits/main)
-[![release](https://img.shields.io/github/v/release/mariano-tp/github-observability-demo?display_name=tag&style=flat-square)](https://github.com/mariano-tp/github-observability-demo/releases)
+[![CI: compose-validate](https://img.shields.io/github/actions/workflow/status/metorresponce/github-observability-demo/compose-validate.yml?branch=main&label=compose-validate&style=flat-square)](https://github.com/metorresponce/github-observability-demo/actions/workflows/compose-validate.yml)
+[![CI: link-check](https://img.shields.io/github/actions/workflow/status/metorresponce/github-observability-demo/link-check.yml?branch=main&label=link-check&style=flat-square)](https://github.com/metorresponce/github-observability-demo/actions/workflows/link-check.yml)
+[![last commit](https://img.shields.io/github/last-commit/metorresponce/github-observability-demo?style=flat-square)](https://github.com/metorresponce/github-observability-demo/commits/main)
+[![release](https://img.shields.io/github/v/release/metorresponce/github-observability-demo?display_name=tag&style=flat-square)](https://github.com/metorresponce/github-observability-demo/releases)
 [![license: MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)](./LICENSE)
-[![stars](https://img.shields.io/github/stars/mariano-tp/github-observability-demo?style=flat-square)](https://github.com/mariano-tp/github-observability-demo/stargazers)
+[![stars](https://img.shields.io/github/stars/metorresponce/github-observability-demo?style=flat-square)](https://github.com/metorresponce/github-observability-demo/stargazers)
 
 # GitHub Observability Demo
 
@@ -68,6 +68,6 @@ Import dashboard
 ![Import](images/Import_Dashboard.png)
 
 ## Credits
-Original stack from the community (github-monitoring) with CI and documentation adjustments by @mariano-tp.
+Original stack from the community (github-monitoring) with CI and documentation adjustments by @metorresponce.
 
 See also: [Code of Conduct](./CODE_OF_CONDUCT.md) · [Contributing](./CONTRIBUTING.md) · [Security](./SECURITY.md)
